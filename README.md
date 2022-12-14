@@ -1,3 +1,3 @@
 # SW-Backend
-Backend del curso de Ingeniería de Software
+Blockchain-based academic certificate management platform (Backend)
 "# ThesisProjectBackend" 
